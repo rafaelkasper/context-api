@@ -1,1 +1,1 @@
-#Repositório contexdo um exemplo do uso de Context API
+#Repositório contendo um exemplo do uso de Context API
